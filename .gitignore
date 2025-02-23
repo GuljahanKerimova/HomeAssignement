@@ -1,0 +1,11 @@
+input.bin
+output.bin
+*.bin
+*.o
+main
+*.codelite
+*.a
+jtransformers
+jtransformers.a
+test-transformers
+transformers.a
