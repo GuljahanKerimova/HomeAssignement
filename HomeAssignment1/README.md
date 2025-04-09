@@ -6,4 +6,4 @@
  build :use `make` command
 
  launch: run `./main` executable 
- </br>Это моя первая программа, я использую команду make для Build, а ./main для выполнения программы. 
+ </br>This is my first program; I use the make command to build and ./main to run the program. 
