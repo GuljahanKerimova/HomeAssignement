@@ -5,7 +5,7 @@ int main()
     string word;
     cout<<"Hello World\n";
     while(true){
-       std::cout<<"введите слово:";
+       std::cout<<"Enter a word:";
 	   std::cin>>word;
 	   if(word == "exit"){
 		   break;
