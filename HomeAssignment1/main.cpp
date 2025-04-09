@@ -4,6 +4,7 @@ int main()
 {
     string word;
     cout<<"Hello World\n";
+    cout<<"Use the word  'exit' to quit the game \n";
     while(true){
        std::cout<<"Enter a word:";
 	   std::cin>>word;
