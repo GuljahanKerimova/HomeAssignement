@@ -1,4 +1,3 @@
-
 #include <gtest/gtest.h>
 #include "Transformers.h"
 #include "autobot.h"
